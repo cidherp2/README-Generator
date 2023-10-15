@@ -1,6 +1,6 @@
-# Weather app
-by cidHerp
-![Github license](https://img.shields.io/badge/license--blue.svg)
+# Readme Generator
+by cidherp2
+![Github license](https://img.shields.io/badge/license-ISC-blue.svg)
 ## Table of Contents
 
 *[Description](#description)
@@ -19,20 +19,20 @@ by cidHerp
 * [License](#license)
 
 ## Description
-you can seacrh the weather forecast of the city you search for
+A command line application to create professional readme files in an easier quicker way 
 ## Installation-instructions
-you need to use weather api 
+you have to instal inquirer and initialize your package jason
 ## Usage
-aay nooo
+you run the app with node index.js and then your are prompted with various questions that you need to answer in order for the read me to be created
 ## License
-
+ISC
 ## Contribution
-just put anything there aight?
+There are none
 ## Tests
-i cant
+the test shoudl be run with npm run test 
 ## Have any more questions?
 You can reach me here
-    Git Hub: cidHerp
+    Git Hub: cidherp2
     email: alexlarios70@hotmail.com
 ## License
-        Licensed under the  license
+        Licensed under the ISC license
